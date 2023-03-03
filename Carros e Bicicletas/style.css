@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: white;
+    margin: 0px;
+}
+
+span{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+    margin-bottom: 30px;
+}
+
+button{
+    background-color: #febe01;
+    color: #332200;
+    border-radius: 4px;
+    
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #febe01;
+    padding: 8px;
+    border-radius: 4px;
+    color: #332200;
+   
+}
+
+div{
+    background-color: #111;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
